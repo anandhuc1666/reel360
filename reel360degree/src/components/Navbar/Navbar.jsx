@@ -35,7 +35,7 @@ export default function Navbar() {
           : "bg-transparent"
       }`}
     >
-      <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-6 lg:px-10">
+      <div className=" flex h-20 w-[100%] items-center justify-between px-6 lg:px-10">
         <img src={logo} alt="Logo" className="h-20 w-auto" />
 
         <ul className="hidden items-center gap-10 lg:flex">
